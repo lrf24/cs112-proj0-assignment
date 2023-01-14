@@ -1,7 +1,48 @@
 
 Project 0
-Name:
-Username:
-Student Id:
+Name: Landon Faber
+Username: lrf24
+Student Id: 2607659
+Date: 01/14/2023
+Proj0
 
 Step 3. -------------------------------------------
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+int BIG_NUMBER = 10000000;
+string name = "Landon";
+char last = 'F';
+double pi = 3.1415;
+bool b = false;
+long l = 0;
+
+    return 0;
+}
+
+Step 4. -------------------------------------------
+0x7ffcf5bb71dc
+0x7ffcf5bb71f0
+F
+0x7ffcf5bb71e0
+0x7ffcf5bb71db
+0x7ffcf5bb71e8
+
+Step 5. -------------------------------------------
+Decimal value is: 37
+Octal value is: 45
+Hexadecimal value is: 25
+
+Step 6. -------------------------------------------
+80
+
+Step 7. -------------------------------------------
+17.771
+0x7ffe1f60197c
+17.771
+
+
+
